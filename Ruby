@@ -1,0 +1,7 @@
+# Пример кода на Ruby
+
+def greet(name)
+  puts "Привет, #{name}!"
+end
+
+greet("Мир")
